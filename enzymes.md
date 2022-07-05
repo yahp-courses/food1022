@@ -21,9 +21,6 @@ Neither are consumed in the reaction.
 | Activation Energy	| Lowers it	| Lowers it |
 
 
-The Maillard reaction is a form of non-enzymatic browning that occurs in foods when proteins and/or amino acids chemically react with carbohydrates of reducing sugars. Applying heat during cooking accelerates and continues this intricate process, which elevates the taste, aromas, and appearance of food.
-
-
 ## Enzymes in Food Processing
 
 | Name | Function |
@@ -31,4 +28,27 @@ The Maillard reaction is a form of non-enzymatic browning that occurs in foods w
 | Glucoamylase |    |
 | Protease | Weakening gluten in dough, shortening mixing time |
 | Lipase | Delaying Starch aging, Improving bread quality and preservation ability |
-| Esterase | a hydrolase enzyme that splits esters into acids and alohol |
+| Esterase | a hydrolase enzyme that splits esters into acids and alohol, Alcoholic Beverages -> modifies oil and fats in fruit juices Produce fragrances and flavour |
+
+
+# Maillard Reaction
+
+The Maillard reaction is a form of non-enzymatic browning that occurs in foods when proteins and/or amino acids chemically react with carbohydrates of reducing sugars. Applying heat during cooking accelerates and continues this intricate process, which elevates the taste, aromas, and appearance of food.
+
+# Hydro colloids
+
+**Additives to replace the effects of glucose**
+
+* GG -> Guar Gum
+* XG -> Xanthan Gum
+* CMC -> Carboxymethyl Cellulose
+* LBG -> Locust Bean Gum
+
+
+
+Gluten becomes elastic and helps trap the air etc. giving shape to the bread.
+
+Without gluten: denser, not as much volume (not rising as much). Denser bread would give you higher glucose etc.
+
+Example cassava is only starch, so adding cassava into bread replaces starch and protein with just starches, which breaks down into only glucose.
+
