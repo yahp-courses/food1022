@@ -45,3 +45,14 @@ A GMO is an organism that has been spliced with bacteria to increase it's resist
 ### Functions
 
 **Learn these**
+
+
+---
+
+CCFH
+
+# Elevator Pitch 30s
+
+* Introduce yourself
+* Icebreaker/why you are beneficial
+* Targets specific person

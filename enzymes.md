@@ -44,7 +44,11 @@ The Maillard reaction is a form of non-enzymatic browning that occurs in foods w
 * CMC -> Carboxymethyl Cellulose
 * LBG -> Locust Bean Gum
 
+Hydro colloids have a lot of uses in the food production industry.
 
+* lbg aids in the freeze-thaw cyle of ice cream. (keeps ice crystals small)
+
+* gg thickens the liquid in almond milk.
 
 Gluten becomes elastic and helps trap the air etc. giving shape to the bread.
 
