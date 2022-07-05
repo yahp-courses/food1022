@@ -22,3 +22,13 @@ Neither are consumed in the reaction.
 
 
 The Maillard reaction is a form of non-enzymatic browning that occurs in foods when proteins and/or amino acids chemically react with carbohydrates of reducing sugars. Applying heat during cooking accelerates and continues this intricate process, which elevates the taste, aromas, and appearance of food.
+
+
+## Enzymes in Food Processing
+
+| Name | Function |
+| --- | --- |
+| Glucoamylase |    |
+| Protease | Weakening gluten in dough, shortening mixing time |
+| Lipase | Delaying Starch aging, Improving bread quality and preservation ability |
+| Esterase | a hydrolase enzyme that splits esters into acids and alohol |
